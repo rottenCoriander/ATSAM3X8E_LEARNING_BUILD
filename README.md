@@ -2,7 +2,9 @@
 This Repository is to build up my own lib and learning progress with ATSAM3X8E (Base on Arduino DUE)
 
 System Core
+
 ̶ ARM Cortex-M3 revision 2.0 running at up to 84 MHz
+
 Memories
 ̶ 256 to 512 Kbytes embedded Flash, 128-bit wide access, memory accelerator, dual bank
 ̶ 32 to 100 Kbytes embedded SRAM with dual banks
