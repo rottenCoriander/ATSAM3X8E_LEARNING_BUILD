@@ -2,7 +2,7 @@
  * 3X8E_PMC_SystemClock.c
  *
  * Created: 27.01.2024 01:27:56
- * Author : ss201040303
+ * Author : rottenCoriander
  */ 
 
 
