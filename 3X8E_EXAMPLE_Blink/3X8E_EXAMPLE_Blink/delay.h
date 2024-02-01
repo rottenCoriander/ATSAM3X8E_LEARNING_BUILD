@@ -2,7 +2,7 @@
  * delay.h
  *
  * Created: 27.01.2024 14:36:46
- *  Author: ss201040303
+ *  Author: rottenCoriander
  */ 
 
 
