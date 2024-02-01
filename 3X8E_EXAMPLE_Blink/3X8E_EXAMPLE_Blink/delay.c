@@ -2,7 +2,7 @@
  * delay.c
  *
  * Created: 27.01.2024 14:37:37
- *  Author: ss201040303
+ *  Author: rottenCoriander
  */ 
 #include "delay.h"
 #include "sam3x8e.h"
