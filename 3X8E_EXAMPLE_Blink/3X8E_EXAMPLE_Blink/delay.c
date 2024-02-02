@@ -23,7 +23,7 @@ TC0->TC_CHANNEL[0].TC_CMR = 0;
 TC0->TC_CHANNEL[0].TC_CMR |= TC_CMR_WAVE;
 //TC0->TC_CHANNEL[0].TC_CMR |=  (1 << 15) ;
 
-clockConstant = F_MCK/1000000UL;
+clockConstant = F_MCK/2/1000000UL;
 
 
 
