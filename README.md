@@ -42,3 +42,5 @@ This Repository is to build up my own lib and learning progress with Atmel ATSAM
 01.02.23 - EXAMPLE_Blink Uploaded
 
 01.02.23 - TC_Delay Uploaded
+
+02.02.23 - UART_SerialConsole Uploaded
