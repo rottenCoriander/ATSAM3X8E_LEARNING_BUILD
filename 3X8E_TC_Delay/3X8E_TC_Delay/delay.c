@@ -24,7 +24,7 @@ TC0->TC_CHANNEL[0].TC_CMR = 0; //Clear Register
 TC0->TC_CHANNEL[0].TC_CMR |= TC_CMR_WAVE; //Channel Mode Register, run on Waveform mode
 //TC0->TC_CHANNEL[0].TC_CMR |=  (1 << 15) ;
 
-clockConstant = F_MCK/1000000UL; //Divide to fit for corresponding value in Counter Value Reg.
+clockConstant = F_MCK/2/1000000UL; //Divide to fit for corresponding value in Counter Value Reg.
 
 /*
 Here runs the Counter Clock =  Master Clock, which is MCK without Divide
