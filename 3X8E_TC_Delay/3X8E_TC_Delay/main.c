@@ -26,7 +26,7 @@ int main(void)
 	void initDelay(unsigned long F_MCK) in delay.h
 	agr F_MCK = Clock of Master Clock
 	*/
-	initDelay(6000000ul);
+	initDelay(12000000ul);
 	
 	
 	delay_ms(200);
