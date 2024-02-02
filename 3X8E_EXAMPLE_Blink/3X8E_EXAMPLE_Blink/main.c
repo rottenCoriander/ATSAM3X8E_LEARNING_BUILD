@@ -19,7 +19,7 @@ int main(void)
 	*/
     SystemInit();
 
-    initDelay(6000000ul);//void initDelay(unsigned long F_MCK)
+    initDelay(12000000ul);//void initDelay(unsigned long F_MCK)
 
 	
     PMC->PMC_PCER0 |= (1 << 12); //Enable Peripheral PIOB
